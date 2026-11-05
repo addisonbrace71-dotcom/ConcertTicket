@@ -1,0 +1,63 @@
+Dorm Room
+Your dorm room is messy after a busy day of classes. Clothes hang over
+your desk chair, and your bed is covered with school supplies. A concert
+poster on the wall reminds you that the show is tonight, but your ticket
+is missing. You remember having it earlier today.
+
+A bookstore receipt lies on your desk. It might help you remember where
+you went. The door leads out toward the Campus Quad.
+#
+Library
+The library is quiet except for the sound of turning pages and students
+typing. Tall bookshelves surround rows of study tables. You recognize a
+table where you stopped earlier today.
+
+This looks like a good place to examine the notebook from the Bookstore.
+Something small could easily be hidden between its pages. Outside, the
+path leads back toward the Campus Quad.
+#
+Campus Quad
+The Campus Quad is an open grassy space surrounded by classroom buildings.
+Students hurry past with backpacks, and colorful flyers advertise campus
+events. One flyer lists the starting time for tonight's concert. You need
+to find your ticket before it is too late.
+
+Paths lead toward the Dorm Room and Library. The Dining Hall is to the
+west, the Student Center is to the east, and the Bookstore is to the south.
+#
+Dining Hall
+The dining hall smells like pizza and fresh french fries. Students fill
+the tables, talking about their classes and plans for the evening. Your
+friend Addison is sitting at a table with her food.
+
+She looks worried and keeps checking her bag as though something is
+missing. Talking to her might help you remember what happened today.
+The exit to the east leads back to the Campus Quad.
+#
+Student Center
+The Student Center has comfortable chairs, campus announcements, and a
+row of numbered lockers along one wall. Students stop here between
+classes to relax and store their belongings.
+
+The lockers are closed, and you cannot tell what is inside them. You will
+need to learn which locker to open and find the correct key. The doors
+to the west lead back to the Campus Quad.
+#
+Bookstore
+The bookstore is filled with textbooks, notebooks, and college sweatshirts.
+A display of pens stands beside the checkout counter. The receipt from
+your dorm reminds you that you shopped here earlier today.
+
+A note at the counter says you left carrying someone else's notebook.
+It mentions a study table in the Library, which could be your next clue.
+The Campus Quad is to the north, and the Parking Garage is to the south.
+#
+Parking Garage
+The parking garage is cool and dim, with rows of cars beneath bright
+overhead lights. Footsteps echo across the concrete floor. Your ride to
+the concert is waiting, and there is not much time left.
+
+This is where you need to bring your concert ticket before leaving campus.
+If you are still missing it, you must keep searching. The path to the
+north leads back to the Bookstore.
+#
